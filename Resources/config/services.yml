@@ -1,5 +1,5 @@
 parameters:
-    portal_flare_filter.filter.class: PortalFlare\Bundle\FilterBundle\Filter
+    portal_flare_filter.filter.class: PortalFlare\FilterBundle\Filter
 
 services:
     portal_flare_filter.filter:

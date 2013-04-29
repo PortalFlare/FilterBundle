@@ -1,6 +1,6 @@
 <?php
 
-namespace PortalFlare\Bundle\FilterBundle\DependencyInjection;
+namespace PortalFlare\FilterBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

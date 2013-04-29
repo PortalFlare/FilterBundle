@@ -1,6 +1,6 @@
 <?php
 
-namespace PortalFlare\Bundle\FilterBundle;
+namespace PortalFlare\FilterBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

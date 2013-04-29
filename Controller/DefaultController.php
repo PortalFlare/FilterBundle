@@ -1,6 +1,6 @@
 <?php
 
-namespace PortalFlare\Bundle\FilterBundle\Controller;
+namespace PortalFlare\FilterBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 

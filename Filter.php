@@ -1,11 +1,11 @@
 <?php
-namespace PortalFlare\Bundle\FilterBundle;
+namespace PortalFlare\FilterBundle;
 
 use \Doctrine\ORM\EntityManager;
 
 /**
  * Class Filter
- * @package PortalFlare\Bundle\FilterBundle
+ * @package PortalFlare\FilterBundle
  *
  * Filter manager for data forms
  */

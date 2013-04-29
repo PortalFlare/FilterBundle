@@ -1,6 +1,6 @@
 <?php
 
-namespace PortalFlare\Bundle\FilterBundle\Tests\Controller;
+namespace PortalFlare\FilterBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
