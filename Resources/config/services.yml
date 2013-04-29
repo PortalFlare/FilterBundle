@@ -1,0 +1,7 @@
+parameters:
+    portal_flare_filter.filter.class: PortalFlare\Bundle\FilterBundle\Filter
+
+services:
+    portal_flare_filter.filter:
+        class: %portal_flare_filter.filter.class%
+        arguments: [@doctrine.orm.entity_manager]
